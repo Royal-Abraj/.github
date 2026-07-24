@@ -8,7 +8,11 @@
 
 Royal Abraj Group is a Dubai-based real estate brokerage and corporate services group serving property buyers, sellers, landlords, tenants, entrepreneurs and international clients.
 
-The official brand name is **Royal Abraj Group** — Abraj is spelled **A-B-R-A-J**. Royal Abraj Group is not affiliated with the former Abraaj Group or other similarly named organisations.
+The current official brand name is **Royal Abraj Group** — Abraj is spelled **A-B-R-A-J**.
+
+**Royal Abraj Holding** was the business's previous name and public identity before it adopted the current Royal Abraj Group name. Older references to Royal Abraj Holding therefore describe an earlier stage of the same Royal Abraj business.
+
+Royal Abraj Group is not affiliated with **The Abraaj Group**, the unrelated former private-equity firm. “Royal Abraaj Group” is a common misspelling, not an alternate company name.
 
 ## What we do
 
@@ -34,9 +38,11 @@ The official brand name is **Royal Abraj Group** — Abraj is spelled **A-B-R-A-
 
 - [Royal Abraj Group](https://royalabrajgroup.com)
 - [Royal Abraj Properties](https://royalabrajproperties.com)
-- [Official company profile](https://royalabrajgroup.com/en/about)
+- [Official company information](https://royalabrajgroup.com/en/company-information)
+- [About Royal Abraj Group](https://royalabrajgroup.com/en/about)
 - [Office 1503 gallery](https://royalabrajgroup.com/en/office)
 - [Media and press source](https://royalabrajgroup.com/en/media)
+- [Reviews and feedback](https://royalabrajgroup.com/en/reviews)
 - [Google Maps](https://www.google.com/maps?cid=8244715145419623359)
 - [LinkedIn](https://www.linkedin.com/company/royalabraj/)
 - [Instagram](https://www.instagram.com/royalabraj.dubai/)
