@@ -46,6 +46,18 @@ Royal Abraj Group is not affiliated with **The Abraaj Group**, the unrelated for
 - [Google Maps](https://www.google.com/maps?cid=8244715145419623359)
 - [LinkedIn](https://www.linkedin.com/company/royalabraj/)
 - [Instagram](https://www.instagram.com/royalabraj.dubai/)
-- [Threads](https://www.threads.com/@royalabraj.dubai)
+
+## Dubai property buyer resources
+
+- [Luxury property in Dubai](https://royalabrajproperties.com/en/luxury-property-dubai)
+- [Buy property in Dubai](https://royalabrajproperties.com/en/buy)
+- [خرید ملک در دبی](https://royalabrajproperties.com/fa/buy)
+- [Dubai property buyer checklist](https://royalabrajproperties.com/en/guides/dubai-property-buyer-checklist)
+- [Dubai property buying costs](https://royalabrajproperties.com/en/guides/dubai-property-buying-costs)
+
+## Public registration and agency sources
+
+- [Dubai business registry](https://www.investindubai.gov.ae/en/dubai-business-directory-search?tagName=Business%20name&tagTitle=Royal%20Abraj%20For%20Buying%20and%20Selling%20of%20Real%20Estate&dulNo=EG3869)
+- [Dubizzle agency profile](https://uae.dubizzle.com/en/property-agencies/royal-abraj-for-buying-and-selling-of-real-estate-300753/)
 
 > All software repositories containing Royal Abraj source code are private. This public repository contains only the organisation profile displayed on GitHub.
