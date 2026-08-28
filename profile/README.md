@@ -6,7 +6,7 @@
 
 # Royal Abraj Group
 
-Royal Abraj Group is the public brand of **Royal Abraj For Buying and Selling of Real Estate Co. L.L.C S.O.C**, a Dubai real-estate brokerage serving property buyers, sellers, landlords and tenants.
+Royal Abraj Group is the customer-facing umbrella brand for two separately identified licensed Dubai operating entities: a real-estate brokerage and a documents-clearing company.
 
 The current official brand name is **Royal Abraj Group** — Abraj is spelled **A-B-R-A-J**.
 
@@ -16,30 +16,47 @@ Royal Abraj Group is not affiliated with **The Abraaj Group**, the unrelated for
 
 ## What we do
 
-The company's licensed activities are limited to:
+### Property brokerage
+
+**Royal Abraj For Buying and Selling of Real Estate Co. L.L.C S.O.C** provides:
 
 - Real Estate Buying & Selling Brokerage
 - Leasing Property Brokerage Agents
 
-Within that scope, Royal Abraj helps clients compare off-plan, ready and secondary-market property options and coordinates buying, selling and leasing transactions.
+It operates under Dubai Trade Licence **1487277** and RERA ORN **50296**. Royal Abraj Properties is the dedicated property brand for buyers, sellers, landlords and tenants.
 
-Content about residency, Golden Visa, business setup, government administration or international trade is general information and coordination only. Where a regulated or specialist service is required, clients deal with the relevant authority or an appropriately licensed independent provider. The company's Trade Licence does not evidence direct licensing for legal, immigration, company-formation, tax, customs, property-management, driving-licence or government-relations services.
+### Documents clearing
 
-## Verified company information
+**Javaher and Amin Documents Clearing Services Co. L.L.C** provides **Documents Clearing Services** under Dubai Trade Licence **1248174**.
+
+### Responsible-entity boundary
+
+The responsible legal entity is identified before every request, quotation, contract, invoice and payment. Royal Abraj Group is the umbrella brand and customer interface; it does not replace the legal company responsible for an engagement.
+
+Any legal, immigration, tax, customs, property-management or other regulated or specialist work outside the licensed activities above is handled by the competent authority or a separately engaged appropriately licensed provider.
+
+## Verified operating-entity information
+
+### Property brokerage entity
 
 | Field | Details |
 |---|---|
 | Legal name | Royal Abraj For Buying and Selling of Real Estate Co. L.L.C S.O.C |
-| Dubai Trade Licence | 1487277 · issued 27 March 2025 · valid through 26 March 2027 |
-| RERA office registration | ORN 50296 · registered 27 March 2025 · valid through 26 March 2027 |
-| Commercial Register | 2566238 |
-| Dubai Chamber membership | 605028 |
-| DUL number | EG3869 |
-| Licensed manager and responsible broker | Amin Alireza Nouralikhani · BRN 85644 · broker card issued 9 July 2025 · valid through 26 March 2027 |
+| Dubai Trade Licence | 1487277 · active through 26 March 2027 |
+| RERA office registration | ORN 50296 · active through 26 March 2027 |
+| Licensed activities | Real Estate Buying & Selling Brokerage; Leasing Property Brokerage Agents |
 | Public office | Office 1503, Latifa Tower, Sheikh Zayed Road, Trade Center First, Dubai, United Arab Emirates |
-| Registered unit | B1503 |
 | Phone | [+971 54 394 5050](tel:+971543945050) |
 | Email | [info@royalabrajgroup.com](mailto:info@royalabrajgroup.com) |
+
+### Documents-clearing entity
+
+| Field | Details |
+|---|---|
+| Legal name | Javaher and Amin Documents Clearing Services Co. L.L.C |
+| Dubai Trade Licence | 1248174 · active through 11 October 2026 |
+| Licensed activity | Documents Clearing Services |
+| Public verification | [Official Royal Abraj company information](https://royalabrajgroup.com/en/company-information) |
 
 ## Official links
 
