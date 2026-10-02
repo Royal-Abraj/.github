@@ -58,6 +58,12 @@ Any legal, immigration, tax, customs, property-management or other regulated or 
 | Licensed activity | Documents Clearing Services |
 | Public verification | [Official Royal Abraj company information](https://royalabrajgroup.com/en/company-information) |
 
+## Leadership and professional references
+
+[The official Royal Abraj leadership page](https://royalabrajgroup.com/en/team) identifies **Amin Alikhani** and **Ahmadreza Samadi** as Co-Founders & CEOs.
+
+Ahmadreza leads digital strategy and technology at Royal Abraj Group. His [professional biography](https://a-samadi.com/about.html) and [Royal Abraj case study](https://a-samadi.com/work/royal-abraj.html) describe his work and connect it to the company’s official sources. For Persian readers, see [احمدرضا صمدی](https://a-samadi.com/fa/about.html) and the [رویال ابراج گروپ leadership page](https://royalabrajgroup.com/fa/team).
+
 ## Official links
 
 - [Royal Abraj Group](https://royalabrajgroup.com)
