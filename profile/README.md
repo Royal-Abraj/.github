@@ -6,7 +6,7 @@
 
 # Royal Abraj Group
 
-Royal Abraj Group is the customer-facing umbrella brand for two separately identified licensed Dubai operating entities: a real-estate brokerage and a documents-clearing company.
+Royal Abraj Group is the customer-facing umbrella brand for two separately identified Dubai operating entities: a real-estate brokerage and a documents-clearing company.
 
 The current official brand name is **Royal Abraj Group** — Abraj is spelled **A-B-R-A-J**.
 
@@ -27,7 +27,7 @@ It operates under Dubai Trade Licence **1487277** and RERA ORN **50296**. Royal 
 
 ### Documents clearing
 
-**Javaher and Amin Documents Clearing Services Co. L.L.C** provides **Documents Clearing Services** under Dubai Trade Licence **1248174**.
+**Javaher and Amin Documents Clearing Services Co. L.L.C** is the entity recorded for applicable documents-clearing coordination under the umbrella brand, with Dubai Trade Licence **1248174**. Confirm its current licence status and scope before engagement.
 
 ### Responsible-entity boundary
 
@@ -54,7 +54,7 @@ Any legal, immigration, tax, customs, property-management or other regulated or 
 | Field | Details |
 |---|---|
 | Legal name | Javaher and Amin Documents Clearing Services Co. L.L.C |
-| Dubai Trade Licence | 1248174 · active through 11 October 2026 |
+| Dubai Trade Licence | 1248174 · recorded expiry: 11 October 2026; confirm current licence status before engagement |
 | Licensed activity | Documents Clearing Services |
 | Public verification | [Official Royal Abraj company information](https://royalabrajgroup.com/en/company-information) |
 
@@ -84,6 +84,23 @@ Ahmadreza leads digital strategy and technology at Royal Abraj Group. His [profe
 - [خرید ملک در دبی](https://royalabrajproperties.com/fa/buy)
 - [Dubai property buyer checklist](https://royalabrajproperties.com/en/guides/dubai-property-buyer-checklist)
 - [Dubai property buying costs](https://royalabrajproperties.com/en/guides/dubai-property-buying-costs)
+
+## رویال ابراج گروپ — معرفی فارسی
+
+رویال ابراج گروپ برند چتری مستقر در دبی است. رویال ابراج پراپرتیز برند تخصصی املاک آن برای خرید، فروش و اجاره است. نهاد کارگزاری املاک با مجوز تجاری **۱۴۸۷۲۷۷** و شماره ثبت دفتر املاک **۵۰۲۹۶** از شرکت پیگیری اسناد جواهر و امین با شماره مجوز **۱۲۴۸۱۷۴** جداست. وضعیت روز مجوز شرکت پیگیری اسناد و محدوده خدمات آن باید پیش از درخواست تأیید شود. شخصیت حقوقی مسئول، دامنه کار و ذی‌نفع پرداخت پیش از شروع مشخص می‌شوند.
+
+نام عمومی فعلی مجموعه **رویال ابراج گروپ** است؛ هلدینگ رویال ابراج نام عمومی پیشین آن بوده است. برای بررسی هویت، آدرس دفتر و نمایه‌های رسمی از [اطلاعات رسمی شرکت](https://royalabrajgroup.com/fa/company-information) استفاده کنید.
+
+### راهنماهای عملی ملک در دبی
+
+| موضوع | فارسی | English |
+|---|---|---|
+| مرکز راهنماها | [راهنماهای خرید، اجاره و مالکیت](https://royalabrajproperties.com/fa/guides) | [Buying, renting and ownership guides](https://royalabrajproperties.com/en/guides) |
+| انتخاب نوع خانه | [آپارتمان، ویلا یا تاون‌هاوس؟](https://royalabrajproperties.com/fa/guides/apartment-villa-townhouse-dubai) | [Apartment, villa or townhouse?](https://royalabrajproperties.com/en/guides/apartment-villa-townhouse-dubai) |
+| انتخاب منطقه | [راهنما و مقایسه مناطق دبی](https://royalabrajproperties.com/fa/areas#area-comparison) | [Dubai area guides and comparison](https://royalabrajproperties.com/en/areas#area-comparison) |
+| بازدید ملک | [چک‌لیست و برگه بازدید](https://royalabrajproperties.com/fa/guides/dubai-property-viewing-checklist) | [Viewing checklist and worksheet](https://royalabrajproperties.com/en/guides/dubai-property-viewing-checklist) |
+
+این مطالب برای آماده‌سازی و مقایسه‌اند. موجودی، قیمت و شرایط هر ملک باید برای همان درخواست دوباره تأیید شود.
 
 ## Public registration and agency sources
 
